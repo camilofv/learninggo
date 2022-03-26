@@ -3,7 +3,7 @@ Here I start my way with Golang
 
 Orden de los ejercicios / Order of Exercises
 
-1 Hola Mundo
+1 Hola Mundo \n
 2 Variables
 3 Condicionales
 4 Recibir y mostrar datos
